@@ -11,4 +11,4 @@ Completed:
   Required - User can dismiss numberpad by tapping outside of text field
   
 Walkthrough:
-  Sorry, I'm new to Github and couldn't get gif to link, so I submitted the gif to Tim via email instead.
+  ![](https://raw.github.com/ginahou/Tip-attempt1/master/TipGIF.gif)
