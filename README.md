@@ -11,4 +11,6 @@ Completed:
   Required - User can dismiss numberpad by tapping outside of text field
   
 Walkthrough:
+
+
   ![](https://raw.github.com/ginahou/Tip-attempt1/master/TipGIF.gif)
